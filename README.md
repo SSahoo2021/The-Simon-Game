@@ -1,1 +1,2 @@
 # The-Simon-Game
+Well, In our childhood times most of us play a Game Called Simon Says, where a kid will be called as Simon and gave instructions to other to do the same as they do , and it someone cant able to do it properly he/she will have to try later , same as that In Simon game , we have to visually see the patterns that computer makes and re-make it again, and if someone fails to do the same , they will have to start it again, its a good way to have a fun time and help in gaining your memorize power.
